@@ -210,3 +210,10 @@ let s_length = students.map(function(currentValue) {
   });
   
   console.log(reverse_Names);
+
+
+  //احذف من المصفوفة جميع الأسماء التي تحتوي على الحرف "o" أو "O".
+//   let has_0_names = students.filter(function(currentValue){
+//     return currentValue.shi
+//     })
+//     console.log(has_0_names);
